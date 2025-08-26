@@ -1,17 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Aravinth
+🚀 AWS & DevOps Engineer | Linux Administrator | Networking Enthusiast  
 
-<!--
-**aravinthcsa/aravinthcsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
+- Cloud: AWS, IBM Cloud
+- DevOps: Docker, Kubernetes, Jenkins, Git, CI/CD
+- OS: Linux (Ubuntu, RHEL, CentOS)
+- Security: AWS Security Groups, IBM Security Groups
 
-Here are some ideas to get you started:
+## 🌍 Portfolio
+- Website: [www.aravinth.com](https://www.aravinth.com)
+- GitHub Pages: [Portfolio](https://aravinthcsa.github.io/portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: youremail@example.com
+- LinkedIn: [linkedin.com/in/aravinth](https://linkedin.com/in/aravinth)
+
 hh
