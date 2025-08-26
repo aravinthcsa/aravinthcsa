@@ -12,7 +12,7 @@
 - GitHub Pages: [Portfolio](https://aravinthcsa.github.io/portfolio/root/aravinth.html)
 
 ## 📫 Contact Me
-- Email: youremail@example.com
+- Email: aravinthrajcsa@gmail.com
 - LinkedIn: [linkedin.com/in/aravinth](https://linkedin.com/in/aravinth)
 
 hh
