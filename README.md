@@ -9,7 +9,7 @@
 
 ## 🌍 Portfolio
 - Website: [www.aravinth.com](https://www.aravinth.com)
-- GitHub Pages: [Portfolio](https://aravinthcsa.github.io/portfolio)
+- GitHub Pages: [Portfolio]([https://aravinthcsa.github.io/portfolio](https://aravinthcsa.github.io/portfolio/root/aravinth.html))
 
 ## 📫 Contact Me
 - Email: youremail@example.com
