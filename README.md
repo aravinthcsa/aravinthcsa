@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aravinth
+# Hi 👋, I'm Aravinthraj
 🚀 AWS & DevOps Engineer | Linux Administrator | Networking Enthusiast  
 
 ## 🔧 Skills
