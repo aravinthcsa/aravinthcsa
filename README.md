@@ -9,6 +9,7 @@
 
 ## 🎓 Certifications
 - Red Hat Certified System Administrator (RHCSA)
+- ID: 240-054-288 | Valid till Apr 2027
 
 ## 🌍 Portfolio
 - GitHub Pages: [Portfolio](https://aravinthcsa.github.io/portfolio/root/aravinth.html)
