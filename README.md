@@ -1,5 +1,5 @@
 # Hi 👋, I'm Aravinthraj
-🚀 AWS & DevOps Engineer | Linux Administrator | Networking Enthusiast  
+🚀 AWS & DevOps Engineer | Linux Administrator | Networking Engineer   
 
 ## 🔧 Skills
 - Cloud: AWS, IBM Cloud
