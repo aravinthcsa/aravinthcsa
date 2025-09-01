@@ -8,11 +8,10 @@
 - Security: AWS Security Groups, IBM Security Groups
 
 ## 🌍 Portfolio
-- Website: [www.aravinth.com](https://www.aravinth.com)
 - GitHub Pages: [Portfolio](https://aravinthcsa.github.io/portfolio/root/aravinth.html)
 
 ## 📫 Contact Me
 - Email: aravinthrajcsa@gmail.com
 - LinkedIn: [linkedin.com/in/aravinth](https://linkedin.com/in/aravinth)
 
-hh
+
