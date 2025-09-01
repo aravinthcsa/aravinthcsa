@@ -7,6 +7,9 @@
 - OS: Linux (Ubuntu, RHEL, CentOS)
 - Security: AWS Security Groups, IBM Security Groups
 
+## 🎓 Certifications
+- Red Hat Certified System Administrator (RHCSA)
+
 ## 🌍 Portfolio
 - GitHub Pages: [Portfolio](https://aravinthcsa.github.io/portfolio/root/aravinth.html)
 
