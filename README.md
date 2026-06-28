@@ -16,6 +16,4 @@
 
 ## 📫 Contact Me
 - Email: aravinthrajcsa@gmail.com
-- LinkedIn: [linkedin.com/in/aravinth](https://linkedin.com/in/aravinth)
-
-
+- LinkedIn: [linkedin.com/in/aravinthraj-s-542314382](https://www.linkedin.com/in/aravinthraj-s-542314382)
